@@ -1,4 +1,4 @@
 ﻿  ConsoleApplication1.cpp
-C:\Users\Andestrial\source\repos\Complex\Complex\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(125,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\Andestrial\source\repos\Complex\Complex\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(42): warning C4172: возвращение адреса локальной или временной переменной : c
-  ConsoleApplication1.vcxproj -> C:\Users\Andestrial\source\repos\Complex\Complex\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Andestrial\source\repos\Complex\Complex\ConsoleApplication\ConsoleApplication1\ConsoleApplication1.cpp(125,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Andestrial\source\repos\Complex\Complex\ConsoleApplication\ConsoleApplication1\ConsoleApplication1.cpp(42): warning C4172: возвращение адреса локальной или временной переменной : c
+  ConsoleApplication1.vcxproj -> C:\Users\Andestrial\source\repos\Complex\Complex\ConsoleApplication\Debug\ConsoleApplication1.exe
